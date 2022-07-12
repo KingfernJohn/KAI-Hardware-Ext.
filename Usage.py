@@ -1,5 +1,4 @@
 #!/usr/bin/env python
-from ast import main
 import psutil
 
 # cpu usage
